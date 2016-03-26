@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+
+.msgSub{
+	text-align: center;
+	width: 100%;
+	height: 50px;
+	background-color: gray;
+	
+}
+
+.cabecalho{
+	color: darkgreen;
+	text-align: center;
+	
+}
+
+.msg{
+	width: 100%;
+	heigth: 100px;
+	ackground-color: lime;
+}
+#msg {
+		position: absolute;
+		text-align: center;
+		top: 83px;
+	}
+
